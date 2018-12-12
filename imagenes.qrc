@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/Log.fw.png</file>
+        <file>imagenes/pedidos.png</file>
+        <file>imagenes/Distribuidores.fw.png</file>
+        <file>imagenes/Materiales.fw.png</file>
+        <file>imagenes/Proveedores.fw.png</file>
+        <file>imagenes/Fondo%20amarillo-207033.png</file>
+        <file>imagenes/Fondo-azul2.png</file>
+        <file>imagenes/fondoenrojoparaimprimir1.gif</file>
+        <file>imagenes/fondo-verde.jpg</file>
+        <file>imagenes/yellow-radiant-background.jpg</file>
+        <file>imagenes/_21167648.jpg</file>
+    </qresource>
+</RCC>
